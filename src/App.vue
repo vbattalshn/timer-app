@@ -128,7 +128,7 @@ export default {
 </script>
 
 <style>
-@import "https://library-battalsahin.netlify.app/reset.css";
+@import "https://library-battalsahin.netlify.app/stylesheets/reset.css";
 body {
   width: 100vw;
   height: 100vh;
